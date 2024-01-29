@@ -1,0 +1,68 @@
+body {
+    font-family: "Merriweather";
+    
+}
+
+header {
+    color: #FFF;
+    background-image: url(../images/Banner\ Image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 1320px;
+    text-align: center;
+    margin-left: 30%;
+    
+}
+
+
+.title1 {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 95px;
+}
+
+.title2,
+.title2 {
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    margin-top: 180px;
+}
+
+.discount {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.holydaydeal {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.category {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.happynewyearimg{
+width: 802.9px;
+height: 500px;
+position: absolute;
+left: 50%;
+
+}
