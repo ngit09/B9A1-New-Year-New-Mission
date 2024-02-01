@@ -1,7 +1,6 @@
 body {
     font-family: "Merriweather";
-
-}
+    }
 
 .header {
     color: #FFF;
@@ -104,3 +103,60 @@ max-width: 1600px;
 .text-primary{
     color: #F00;
 }
+.best-offer{
+    color: #070211;
+    text-align: left;
+    padding: 50px 270px 214px 270px;
+    max-width: 1600px;
+    display: flex;
+    font-family: Inter;
+}
+.coming-soon{
+    font-size: 50px;
+}
+.circle-border {
+    width: 400px; 
+    height: 400px;
+    border: 20px solid #ff0000; 
+    border-radius: 50%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+  }
+  .year{
+    color: #F00;
+    font-family: Inter;
+    font-size: 40px;
+    justify-content: left;
+  }
+  .column-three{
+    margin-left: 100px;
+  /* }
+  .banner {
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: Inter;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    background-image: url(../images/Group\ 75.png);
+    /* Add a background image of the opened box with confetti */
+}
+
+.woman {
+    margin-left: 20px;
+} */
