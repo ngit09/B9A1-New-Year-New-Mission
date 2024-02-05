@@ -103,7 +103,7 @@ max-width: 1600px;
 .text-primary{
     color: #F00;
 }
-button{
+.join-now-red, .join-now{
     background-color: #F00;
     color: #d1cccc;
 }
