@@ -103,6 +103,10 @@ max-width: 1600px;
 .text-primary{
     color: #F00;
 }
+button{
+    background-color: #F00;
+    color: #d1cccc;
+}
 .best-offer{
     color: #070211;
     text-align: left;
