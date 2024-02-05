@@ -1,6 +1,7 @@
 body {
     font-family: "Merriweather";
     }
+    
 
 .header {
     color: #FFF;
@@ -87,7 +88,6 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
-    /* 166.667% */
 }
 .year-img{
     padding: 68px 138px 68px 60px;
@@ -132,31 +132,112 @@ max-width: 1600px;
   }
   .column-three{
     margin-left: 100px;
-  /* }
-  .banner {
+   }
+
+   .banner { 
     text-align: center;
     padding: 20px;
 }
 
-h1 {
+  .holiday-sale-text {
     font-size: 60px;
     text-align: center;
     font-family: Inter;
 }
-
-.content {
+.holiday-sale-part-images {
     display: flex;
-    align-items: center;
+   justify-content: space-around;
+   height: 663px;
+   weight: 1320px;
 }
 
-.box {
+
+.box-over-red {
     width: 100px;
     height: 100px;
-    background-color: white;
-    background-image: url(../images/Group\ 75.png);
-    
+}
+.box{
+    background-color: #fff9f9fa;
+    height: 400px;
+    weight: 400px;
+    margin-right: 100px;
+    padding-top: 30px;
 }
 
-.woman {
-    margin-left: 20px;
-} */
+
+.discount-women-image {
+    background-image: url(../images/woman.png);
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    padding-right: 100px;
+}
+    
+.fifty{
+    height: 220px;
+   weight: 220px;
+   margin-right: 100px;
+   padding-top: 50px;
+}
+.img-portfolio {
+    position: relative;
+  }
+  
+  .portfolio-img{
+    transition: opacity 0.3s ease;
+  }
+  
+  .portfolio-img:hover {
+    opacity: 0.7;}
+
+.awesome-portfolio{
+    padding: 100px  70px 50px 350px;
+}
+.portfolio-img{
+margin: 10px 10px 10px 10px;
+}
+
+.newsletter{
+    text-align: center;
+    padding: 100px  0px 0px px;
+}
+.subscribe{
+    display: flex;
+    padding-left: 900px;
+}
+.mail-subscribe{
+  border: none;
+  border-left: 50px;
+    text-align: center;
+
+}
+.button-subscribe{
+    background-color: #F00;
+    color: white;
+    border: none;
+}
+footer{
+    background-color: #070211;
+    height: 300PX;
+    weight: 300px;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 300px;
+    padding: 50px 50px 50px 50px;
+     
+}
+.footer-text-group{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.footer-text{
+    color: #d1cccc;
+}
+
+.right{
+    text-align: right;
+}
+.icons{
+    text-align: center;
+}
